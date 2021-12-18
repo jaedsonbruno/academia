@@ -1,7 +1,8 @@
 package academia;
 
 import java.io.IOException;
-import academia.modelo.*;
+
+import academia.model.*;
 
 /**
  * Hello world!

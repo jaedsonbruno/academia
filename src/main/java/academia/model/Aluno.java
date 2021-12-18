@@ -1,4 +1,4 @@
-package academia.modelo;
+package academia.model;
 
 
 public class Aluno{
